@@ -1,4 +1,8 @@
-### Hi there 👋
+### 咕噜咕噜！
+
+- :hammer_and_pick: Chinese / English
+
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=gywkf@qq.com&color=blue&style=flat-square)](mailto:gywkf@qq.com)
 
 <!--
 **lahmsama/lahmsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
